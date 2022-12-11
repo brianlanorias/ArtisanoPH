@@ -92,10 +92,10 @@ p{
     background: #563434;
 }
 .header2{
-    background-image: url(Images/yellow.png);
+    background-image: url(images/yellow.png);
 }
 .header{
-    background-image: url(Images/image157.png);
+    background-image: url(images/image157.png);
 }
 .header row{
     margin-top: 70px;
@@ -176,7 +176,7 @@ h4{
 }
 
 .offer{
-    background-image: url(Images/yellow.png);
+    background-image: url(images/yellow.png);
     margin-top: 80px;
     padding: 30px 0;
 }
@@ -348,7 +348,7 @@ input: focus{
     cursor: pointer;
 }
 .header3{
-    background-image: url(Images/yellow.png);
+    background-image: url(images/yellow.png);
 }
 
 .about .col-2{
